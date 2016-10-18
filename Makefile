@@ -1,5 +1,5 @@
 TAG ?= latest
-PREFIX ?= pavlov/fluentd
+PREFIX ?= lukesmith/fluentd
 
 .PHONY: build
 build:
